@@ -1,0 +1,201 @@
+/*
+
+styles.css */
+
+body {
+
+.hero.signin {
+
+left: 50%;
+
+translate: 25% 0;
+
+.card {
+
+.hero.signin.active { translate: 0;
+
+}
+
+.hero.signup
+
+translate:
+
+{
+
+-25% 0:
+
+background: #fafafa; color: #4b5679;
+
+position: relative; overflow: hidden; width: 660px; height: 440px; border-radius: 16px; background: #ffffff;
+
+text-align: center;
+
+.hero.signup.active { translate: 0;
+
+.card-bg {
+
+}
+
+position: absolute;
+
+z-index: 2;
+
+inset: 0;
+
+width: 50%;
+
+background: #3a5ed4;
+
+transition: 0.5s;
+
+.hero
+
+3;
+
+column;
+
+.card-bg.signin {
+
+translate: 100% 0;
+
+z-index:
+
+display: flex;
+
+flex-direction:
+
+align-items: center;
+
+justify-content: center;
+
+gap: 16px;
+
+width: 50%;
+
+color: #f9f9f9;
+
+padding: 0 24px;
+
+}
+  
+
+.hero, .form {
+
+position: absolute; width: 50%: height: 100%; transition: 0.5s;
+
+.hero button {
+
+3784
+
+padding: 12px 40px;
+
+border-radius: 32px;
+
+border: 1px solid #f9f9f9:
+
+background:
+
+transparent;
+
+}
+  /*
+
+styles.css */
+
+body {
+
+.hero.signin {
+
+left: 50%;
+
+translate: 25% 0;
+
+.card {
+
+.hero.signin.active { translate: 0;
+
+}
+
+.hero.signup
+
+translate:
+
+{
+
+-25% 0:
+
+background: #fafafa; color: #4b5679;
+
+position: relative; overflow: hidden; width: 660px; height: 440px; border-radius: 16px; background: #ffffff;
+
+text-align: center;
+
+.hero.signup.active { translate: 0;
+
+.card-bg {
+
+}
+
+position: absolute;
+
+z-index: 2;
+
+inset: 0;
+
+width: 50%;
+
+background: #3a5ed4;
+
+transition: 0.5s;
+
+.hero
+
+3;
+
+column;
+
+.card-bg.signin {
+
+translate: 100% 0;
+
+z-index:
+
+display: flex;
+
+flex-direction:
+
+align-items: center;
+
+justify-content: center;
+
+gap: 16px;
+
+width: 50%;
+
+color: #f9f9f9;
+
+padding: 0 24px;
+
+}
+
+6/8
+
+.hero, .form {
+
+position: absolute; width: 50%: height: 100%; transition: 0.5s;
+
+.hero button {
+
+3784
+
+padding: 12px 40px;
+
+border-radius: 32px;
+
+border: 1px solid #f9f9f9:
+
+background:
+
+transparent;
+
+}
